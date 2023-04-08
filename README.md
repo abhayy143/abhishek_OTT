@@ -29,8 +29,5 @@ Contributions to this project are welcome and appreciated. If you find any issue
 
 
 
-## Screenshots
-
-![App Screenshot](css/images/abhishek ott.jpg)
 
 
